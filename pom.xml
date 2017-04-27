@@ -6,7 +6,7 @@
     <artifactId>wlclient-wrapper</artifactId>
     <version>1.0.0-SNAPSHOT</version>
     <packaging>bundle</packaging>
-    <name>Weblogin Client Wrapper</name>
+    <name>Weblogic Client Connector Wrapper</name>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
